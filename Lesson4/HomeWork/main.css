@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+}
+.brd-bl-1px{ border: black 1px solid; }
+.w267{ width: 267px; }
+.h50{ height: 50px; }
+.dis-flx{ display: flex; }
+.jus-con-cen{ justify-content: center; }
+.al-it-cen{align-items: center;}
+.rw-gp-5px{ row-gap: 5px;}
+.flx-drn-cln{ flex-direction: column;}
+.bgnd-hdr{ background:#e5f6af; }
+.flx-wp{ flex-wrap: wrap;}
+.al-cn-cen{align-content: center;}
+.cn-gp-5px{column-gap: 5px;}
+.h260{height: 260px;}
+.a{ height: 255px; width: 60px; background: #fdb6fe;}
+.b{ width: 200px; height: 124px; background: #9ee1fe
+}
