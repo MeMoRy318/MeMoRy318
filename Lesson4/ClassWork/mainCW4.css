@@ -1,6 +1,6 @@
 body
 {
-box-sizing: border-box;
+    box-sizing: border-box;
 }
 .dsp-flx{display: flex;}
 .flx-wr{flex-wrap: wrap}
@@ -18,3 +18,4 @@ box-sizing: border-box;
 .rw-gr{ row-gap: 6px;}
 .f{width: 96px; height: 149px;}
 .png{padding: 5px;}
+.raw{ width: 1200px;}
