@@ -4,14 +4,14 @@ body{
 }
 .bgr{ background: #d8d8d8;}
 .clr{ color: #939393;}
-.w1200{width: 993px;}
+.w1200{width: 100%;}
 .d-flx{ display: flex;}
 .h400{height: 400px;}
-.w200{width: 200px;}
+.w200{width: 19%;}
 .h100{height: 100px;}
 .flx-wr{flex-wrap: wrap;}
-.w1000{width: 788px;}
-.rc-gap{row-gap: 5px; column-gap: 5px;}
+.w1000{width: 80%;}
+.rc-gap{row-gap: 9px; column-gap: 9px;}
 .ju-cn-cn{ justify-content: center;}
 .al-it-cn{ align-items: center;}
 @media screen and ( max-width: 992px) and ( min-width: 768px){
@@ -20,7 +20,7 @@ body{
     }
     .raw > div{
         border-radius: 40px;
-        width: 992px;
+        width: 100%;
 
     }
     .raw{ row-gap: 20px;
