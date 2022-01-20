@@ -15,7 +15,7 @@ h3{color: #e57d7f; margin: 1px;}
 .al-it-cn{align-items: center}
 .flx-dr-cl{flex-direction: column;}
 .flx-wrp{flex-wrap: wrap;}
-.rw-cn-gap{row-gap: 9px; column-gap: 1%;}
+.rw-cn-gap{row-gap: 8px; column-gap: 1%;}
 .p{position: relative; bottom: 100px;}
 .m{margin-top: -100px;}
 @media screen and ( max-width: 992px) and ( min-width: 768px){
