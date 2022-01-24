@@ -1,0 +1,146 @@
+body{
+    box-sizing: border-box;
+}
+.dsp-flx{display: flex;}
+.flx-wr{flex-wrap: wrap;}
+.ju-cn-sb{ justify-content: space-between;}
+.ju-cn-cn{ justify-content: center;}
+.ju-cn-ev{ justify-content: space-evenly;}
+.al-cn-st{align-content: flex-start;}
+.al-it-cn{align-items: center;}
+.mr-l{margin-left: 2%;}
+.mr-r{margin-right: 2%;}
+.mr-t{margin-top: 5%;}
+.w100{ width: 100%;}
+.w80{width: 80%}
+.w45{width: 45%;}
+.w19{width: 19%;}
+.w15{width: 15%;}
+.bgr{background: black;}
+.bgrr{background: red;}
+.h825{height: 924px;}
+.h300{height: 300px;}
+.h200{height: 200px;}
+.h100{height: 100px;}
+.h50{height: 50px;}
+.h80{height: 80px;}
+.h30{height: 30px;}
+.h400{height: 400px;}
+.rwg{row-gap: 8px;}
+.clg{ column-gap: 1%;}
+@media screen and ( max-width: 1200px) and ( min-width: 992px) {
+    .dsp {
+        display: none;
+    }
+
+    .w80 {
+        width: 100%;
+    }
+
+    .wm19 {
+        width: 100%;
+    }
+
+    .wm45 {
+        width: 45%;
+    }
+
+    .flx-dr {
+        flex-direction: column;
+    }
+
+    .h220 {
+        height: 310px;
+    }
+
+    .alm-cn-st {
+        align-content: center;
+    }
+
+    .jum-cn-ev {
+        justify-content: space-evenly;
+    }
+
+    .hm {
+        height: 100px;
+    }
+
+    .hm200 {
+        height: 250px;
+    }
+
+    .h80 {
+        height: 110px;
+    }
+
+    .clg {
+        column-gap: 1%;
+    }
+
+}
+@media screen and ( max-width: 992px) and ( min-width: 768px) {
+    .dsp1 {
+        display: none;
+    }
+
+    .dsp {
+        display: none;
+    }
+
+    .w80 {
+        width: 100%;
+    }
+
+    .wm19 {
+        width: 100%;
+    }
+
+    .wm45 {
+        width: 45%;
+    }
+
+    .h220 {
+        height: 205px;
+    }
+
+    .alm-cn-st {
+        align-content: center;
+    }
+
+    .jum-cn-ev {
+        justify-content: space-evenly;
+    }
+
+    .hm {
+        height: 60px;
+    }
+
+    .hm200 {
+        height: 250px;
+    }
+
+    .h80 {
+        height: 110px;
+    }
+
+    .clg {
+        column-gap: 1%;
+    }
+
+    .wm98 {
+        width: 98%;
+    }
+    .mr-t{margin-top: 0;}
+    .rwg{row-gap: 8px;}
+}
+
+
+
+
+
+
+
+
+
+
+
