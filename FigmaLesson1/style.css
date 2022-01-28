@@ -1,0 +1,243 @@
+/*============================================================Обнуление=========================================*/
+*,
+*::before,
+*::after{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul,
+ol,
+li{
+    list-style: none;
+}
+html,
+body{
+    height: 100%;
+    line-height: 1;
+    font-size: 16px;
+    color: #0B2330;
+;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+.wrapper{
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+._container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.down {
+    transform: rotate(45deg);
+}
+/*==========================================header============================================================*/
+
+.header{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 50;
+}
+/*=========================================header__container====================================================*/
+.header__container{
+    display: flex;
+    min-height: 83px;
+    align-items: center;
+    background: #FFFFFF;
+
+}
+/*===========================================logo__container====================================================*/
+.logo__container{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 32px;
+    max-width: 104px;
+
+}
+/*=========================================header__logo=========================================================*/
+.header__logo{
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+}
+/*=========================================header__menu=========================================================*/
+.header__menu{
+    margin: 0 0 1px 170px;
+    display: flex;
+}
+/*========================================menu__list============================================================*/
+.menu__list
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+/*==========================================menu__link============================================================*/
+.menu__link{
+    font-size: 16px;
+    line-height: 24px;
+    color:#000000;
+}
+.mr56{
+    margin-right: 56px;
+}
+.mr24{
+    margin-right: 24px;
+}
+.mr33{
+    margin-right: 33px;
+}
+/*============================================arrow down==========================================================*/
+.down{
+    margin-right: 41px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+}
+/*============================================list__menu===========================================================*/
+.list__menu{
+    display: flex;
+    margin-left: 168px;
+    flex-wrap: wrap;
+}
+/*============================================header__bottom=========================================================*/
+.header__buttom{
+    border: solid;
+    background: #0B2330;
+    border-radius: 4px;
+    min-height: 54px;
+    min-width: 163px;
+    display: flex;
+    align-items: center;
+    margin-right: 32px;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+/*===========================================menu__bottom=============================================================*/
+.menu__buttom{
+    margin-left: 29px;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+}
+/*=============================================main=================================================================*/
+.main{
+    width: 100%;
+    flex: 1 1 auto;
+}
+/*==========================================main_container===========================================================*/
+.main_container{
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 969px;
+    justify-content: space-between;
+}
+/*==========================================main__item===============================================================*/
+.main__item{
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 969px;
+    max-width: 436px;
+    align-content: center;
+    margin-left: 147px
+}
+/*=================================================main_title=========================================================*/
+.main_title{
+    font-size: 60px;
+    line-height: 64px;
+    color: #0B2330;
+}
+/*==============================================main__link============================================================*/
+.main__link{
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+    margin-top: 54px;
+    margin-bottom: 46px
+}
+/*=============================================main__buttom===========================================================*/
+.main__buttom{
+    color: #0B2330;
+    border-radius: 4px;
+    min-height: 54px;
+    min-width: 163px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-right: 32px;
+}
+/*============================================buttom__main============================================================*/
+.buttom__main{
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+    min-height: 54px;
+    min-width: 156px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    justify-content: center;
+    align-items: center;
+}
+/*=============================================main__img============================================================*/
+.main__img{
+    background: #F9C600;
+    min-height: 969px;
+    max-width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between
+}
+.img{
+    max-width: 542px;
+    max-height: 476px;
+    margin-top: 275px;
+    position: relative;
+    right: 75px;
+;
+}
+.img__decor{
+    width:100% ;
+    max-height: 114px;
+}
+.contend__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.h2__container{
+    margin-top: 189px;
+    max-width: 547px;
+    max-height: 96px;
+    margin-left: 55px;
+    margin-bottom: 56px;
+}
+.title_h2{
+    font-size: 42px;
+    line-height: 48px;
+    text-align: center;
+    color: #0B2330;
+}
+.icon__logo{
+    margin-left: 55px;
+    margin-bottom: 192px;
+}
