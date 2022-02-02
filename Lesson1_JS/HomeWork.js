@@ -57,8 +57,8 @@ bFloat + " " + eInt + " " + aBoolean + " " + bBoolean}</div>`)
 // Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ. З'єднати їх в одну змінну person.
 let firstName = "Yuriy",
     middleName = "Podusovskiy",
-    lastName = "Mikhaylovich";
-years = null;
+    lastName = "Mikhaylovich",
+    years = null;
 
 let person = firstName + middleName + lastName;
 
