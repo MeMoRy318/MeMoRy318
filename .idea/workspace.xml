@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ba3949-c4e9-4bfc-8fc0-baf48b18b8cb" name="Changes" comment="js">
-      <change afterPath="$PROJECT_DIR$/Lesson3_js/HomeWork/HomeWork.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_js/HomeWork/HomeWork_js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1_JS/ClassWork/ClassWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1_JS/ClassWork/ClassWork.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1_JS/HomeWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1_JS/HomeWork/HomeWork.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1_JS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1_JS/HomeWork/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2_js/ClassWork/ClassWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2_js/ClassWork/ClassWork.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3_js/HomeWork/HomeWork_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3_js/HomeWork/HomeWork_js.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +79,8 @@
       <workItem from="1643707053714" duration="816000" />
       <workItem from="1643716836208" duration="10505000" />
       <workItem from="1643791738762" duration="51948000" />
-      <workItem from="1644090377556" duration="10576000" />
+      <workItem from="1644090377556" duration="10683000" />
+      <workItem from="1644160362988" duration="1929000" />
     </task>
     <task id="LOCAL-00002" summary="Figma">
       <created>1643484903893</created>
@@ -128,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643986910547</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="js">
+      <created>1644160153488</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644160153488</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
