@@ -1,7 +1,5 @@
 // Створити масив з 10 чисел (можна використовувати Math.random Та Math.floor).
-let arr = [Math.random() * 100, Math.random() * 100, Math.random() * 100, Math.random() * 100,
-    Math.random() * 100, Math.random() * 100, Math.random() * 100, Math.random() * 100, Math.random() * 100,
-    Math.random() * 100,]
+let arr = [Math.random() * 5,]
 
 //Скласти результат цих чисел в змінній result.
 let result = arr.reduce(function (previousValue, item, index, array) {
