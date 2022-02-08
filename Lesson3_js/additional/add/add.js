@@ -73,26 +73,14 @@ let citiesWithId = [
     {user_id: 2, country: 'Poland', city: 'Krakow'},
     {user_id: 4, country: 'USA', city: 'Miami'}
 ];
+citiesWithId.sort(function (a, b){
+    return a.user_id - b.user_id;
+})
 let array = []
      for (i = 0; i < usersWithId.length; i++){
-         if ( usersWithId[i].id === citiesWithId[0].user_id ){
+         if ( usersWithId[i].id === citiesWithId[i].user_id ){
              usersWithId[i].address = citiesWithId[i]
              array.push(usersWithId[i])
-         }
-         else if (usersWithId[i].id === citiesWithId[1].user_id){
-             usersWithId[i].address = citiesWithId[i]
-             array.push(usersWithId[i])
-
-         }
-         else if (usersWithId[i].id === citiesWithId[2].user_id){
-             usersWithId[i].address = citiesWithId[i]
-             array.push(usersWithId[i])
-
-         }
-         else if (usersWithId[i].id === citiesWithId[3].user_id){
-             usersWithId[i].address = citiesWithId[i]
-             array.push(usersWithId[i])
-
          }
      }
 console.log(array)
