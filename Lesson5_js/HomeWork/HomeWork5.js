@@ -1,6 +1,6 @@
 let arr = [21,12,23,324,3543,345,3]
 let users = [
-    {id: 1, name: 'vasya', age: 31, status: false},
+    {id: 1, name: 'vasya', age: 31, status:false},
     {id: 2, name: 'petya', age: 30, status: true},
     {id: 3, name: 'kolya', age: 29, status: true},
     {id: 4, name: 'olya', age: 28, status: false}
