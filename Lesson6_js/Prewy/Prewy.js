@@ -164,3 +164,25 @@ console.log (usser.reduce((bascet,usser)=>{
     }
     return bascet
 },{bascetTrue:[], bascetFolse:[]}))
+
+
+
+// let capitalize = (str) => {
+//    return str.split(' ').map(word=>word.charAt(0).toUpperCase()+word.slice(1)).join(' ');
+// };
+// // let  x = "dfsdfsd"
+// // let z = x[0].toUpperCase()+x.slice(1)
+// // console.log(z)
+// // - Створити функцію-валідатор для адрес електронної пошти. Перевірка повинна включати в себе
+// //     :данні до знака равлика(@), наявність равлика, крапку яка знаходиться не меньше ніж на 2
+// // символ далі після равлика, функція не чутлива до регістру (some@email.com,SOME@EMAIL.COM,some@EMAIL.com,
+// // і тд - однакові значення)
+// let someemail = "someemail@gmail.com"
+// // indexOf("l"),lastIndexOf("l")
+// let x = someemail.indexOf("@")
+// let z = someemail.indexOf(".")
+//
+// console.log(x,z)
+//  if (x !== 0 && x !== -1 && x+2 < z && z !==-1 ){
+//      console.log(true)
+//  }
