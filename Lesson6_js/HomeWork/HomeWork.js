@@ -147,3 +147,5 @@ console.log(count(sstr,10))
 // document.writeln(cutString(str, 5)) // 'Сила тяжести приложена к центру'
 let cutStrinng = (str, n) => str.split(" ",n).join(" ")
 console.log(cutStrinng(sstr,5))
+ let NewArr = () =>arr =  [125,false,"kokos"]
+console.log(NewArr(arr[0]))

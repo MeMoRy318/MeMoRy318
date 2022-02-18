@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ba3949-c4e9-4bfc-8fc0-baf48b18b8cb" name="Changes" comment="js">
-      <change afterPath="$PROJECT_DIR$/Lesson6_js/HomeWork/HomeWork.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_js/HomeWork/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7_js/HomeWork/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7_js/HomeWork/Lesson7_Js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7_js/Prywy/Prewy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7_js/Prywy/Prewy_js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6_js/HomeWork/HomeWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6_js/HomeWork/HomeWork.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6_js/Prewy/Prewy.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6_js/Prewy/Prewy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -90,7 +94,10 @@
       <workItem from="1644496780702" duration="22045000" />
       <workItem from="1644543823338" duration="9988000" />
       <workItem from="1644584622884" duration="13302000" />
-      <workItem from="1644661735918" duration="63026000" />
+      <workItem from="1644661735918" duration="63639000" />
+      <workItem from="1644952783980" duration="2433000" />
+      <workItem from="1645050599285" duration="8805000" />
+      <workItem from="1645092987968" duration="44690000" />
     </task>
     <task id="LOCAL-00002" summary="Figma">
       <created>1643484903893</created>
@@ -239,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644770853546</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="js">
+      <created>1644814437571</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1644814437571</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

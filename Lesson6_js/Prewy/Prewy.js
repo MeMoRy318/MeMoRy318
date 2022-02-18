@@ -1,3 +1,4 @@
+// str.trim() чисте стрингу вид пробилив лишних
 // let a = "hello"
 // let b = "Okten"
 // let c = a.concat(b)
@@ -186,3 +187,5 @@ console.log (usser.reduce((bascet,usser)=>{
 //  if (x !== 0 && x !== -1 && x+2 < z && z !==-1 ){
 //      console.log(true)
 //  }
+let = newArr () => { [21,21,21]}
+console.log(newArr)
