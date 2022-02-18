@@ -247,9 +247,9 @@ function userCard(namber) {
             card.historyLogs.push(transaction);
         },
         transferCredits: function (credit, cards) {
-            cards.getCardOptions().balance+=credits;
+            cards.getCardOptions().balance+=credit;
             credit = credit + credit * 0.5 / 100;
-            card.balance -= credits;
+            card.balance -= credit;
         },
     }
 
