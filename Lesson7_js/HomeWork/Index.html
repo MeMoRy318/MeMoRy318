@@ -8,8 +8,16 @@
     <title>Document</title>
 </head>
 <body>
-<script src="Lesson7_Js.js">
-
+<div id = "target">Lorem ipsum.</div>
+<script>
+    // console.log(document.head.innerHTML)
+    // console.log(document.body.innerHTML)
+    let x = document.getElementById("target")
+    x.innerHTML = `<h1>dfgdfgdfdgf</h1>`
+    x.style.background = "red"
+    x.style.height = "500px"
+    x.style.borderRadius = "50%"
+    console.log(x)
 </script>
 </body>
 </html>

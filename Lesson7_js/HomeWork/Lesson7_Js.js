@@ -204,7 +204,7 @@ let prince = [
 function userCard(namber) {
     let stamp = Date.now()
     let time = new Date(stamp)
-    let card ={
+    let card = {
         balance:100,
         transactionLimit:100,
         historyLogs: [],
@@ -261,3 +261,4 @@ card.putCredits(20)
 card.takeCredits(120)
 console.log(card3.getCardOptions());
 console.log(card.getCardOptions());
+
