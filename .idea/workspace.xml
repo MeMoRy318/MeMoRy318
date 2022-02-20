@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ba3949-c4e9-4bfc-8fc0-baf48b18b8cb" name="Changes" comment="js">
-      <change afterPath="$PROJECT_DIR$/Lesson7_js/HomeWork/HomeWork.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8_js/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8_js/Prewy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson8_js/ClassWork/ClassWork.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson8_js/ClassWork/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7_js/HomeWork/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7_js/HomeWork/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7_js/HomeWork/Lesson7_Js.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson7_js/HomeWork/Lesson7_Js.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +57,11 @@
       <recent name="C:\Users\MeMoPu\Desktop\MeMoRy\Figma\icon" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MeMoPu\Desktop\MeMoRy\Lesson8_js\HomeWork" />
       <recent name="C:\Users\MeMoPu\Desktop\MeMoRy\Lesson5_js\HomeWork" />
       <recent name="C:\Users\MeMoPu\Desktop\MeMoRy\Lesson3_js\additional" />
       <recent name="C:\Users\MeMoPu\Desktop\MeMoRy\Lesson1_JS\HomeWork" />
       <recent name="C:\Users\MeMoPu\Desktop\MeMoRy\Figma" />
-      <recent name="C:\Users\MeMoPu\Desktop\MeMoRy\Lesson5\lesson" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,7 +94,7 @@
       <workItem from="1644952783980" duration="2433000" />
       <workItem from="1645050599285" duration="8805000" />
       <workItem from="1645092987968" duration="49263000" />
-      <workItem from="1645273654443" duration="23208000" />
+      <workItem from="1645273654443" duration="29351000" />
     </task>
     <task id="LOCAL-00002" summary="Figma">
       <created>1643484903893</created>
@@ -267,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645197619164</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="js">
+      <created>1645314465534</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1645314465534</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
