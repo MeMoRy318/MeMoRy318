@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ba3949-c4e9-4bfc-8fc0-baf48b18b8cb" name="Changes" comment="js">
-      <change afterPath="$PROJECT_DIR$/Lesson8_js/ClassWork/ClassWork.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8_js/ClassWork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Add/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson8_js/Add/Add.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -94,7 +94,9 @@
       <workItem from="1644952783980" duration="2433000" />
       <workItem from="1645050599285" duration="8805000" />
       <workItem from="1645092987968" duration="49263000" />
-      <workItem from="1645273654443" duration="29351000" />
+      <workItem from="1645273654443" duration="29654000" />
+      <workItem from="1645358846390" duration="4211000" />
+      <workItem from="1645452472177" duration="3854000" />
     </task>
     <task id="LOCAL-00002" summary="Figma">
       <created>1643484903893</created>
@@ -271,7 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645314465534</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="js">
+      <created>1645320867741</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1645320867741</updated>
+    </task>
+    <task id="LOCAL-00028" summary="js">
+      <created>1645456295758</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1645456295758</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
