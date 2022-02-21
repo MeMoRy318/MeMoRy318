@@ -54,8 +54,10 @@
             scrap: function scraper (startElement)  {
                 let children = startElement.children
                 for (let childrens of children) {
-                    arr.push(childrens)
-                    scraper(childrens)
+                    if (childrens.classList.contains("rules")) {
+                        arr.push(childrens.classList)
+                    }
+                        scraper(childrens)
                 }
             }
         }
