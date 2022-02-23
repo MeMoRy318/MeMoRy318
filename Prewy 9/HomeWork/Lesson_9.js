@@ -51,6 +51,7 @@ for (let cours of coursesAndDurationArray){
     h1.innerText = `${cours.title}`
 
     let p = document.createElement("p")
+    p.classList.add("description")
     p.innerText = `${cours.monthDuration}`
 
     div_item.append(h1,p)
